@@ -1,8 +1,12 @@
 // cpp code to print hello world
 
 
-#include<iostream.h>
+#include<iostream>
+using namespace std;
+
 int main(){
+
 	cout<<"Hello WORLD !";
 	return 0;
+
 }
