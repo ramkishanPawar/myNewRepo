@@ -1,5 +1,5 @@
 // cpp code to print hello world
-// This is from branch error1:wq;
+// This is from branch error1
 
 #include<iostream>
 using namespace std;
